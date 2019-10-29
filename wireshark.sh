@@ -13,3 +13,5 @@ sudo setcap cap_net_raw,cap_net_admin=eip /usr/bin/dumpcap
 sudo getcap /usr/bin/dumpcap
 
 sudo wireshark
+
+https://youtu.be/cPwblVSpvF4
