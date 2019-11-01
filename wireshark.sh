@@ -14,4 +14,3 @@ sudo getcap /usr/bin/dumpcap
 
 sudo wireshark
 
-https://youtu.be/cPwblVSpvF4
